@@ -1,0 +1,14 @@
+ body
+ 	{
+ 		background-color: yellow;
+ 		margin:auto;
+        text-align: left;
+ 		width:500px;
+ 		
+
+ 	}
+ blockquote
+ 	{
+ 		border: 1px solid white;
+ 		margin:0px;
+ 	}
